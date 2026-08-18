@@ -52,13 +52,3 @@ A simple URL shortening service built with Django.
 
 The app will be available at `http://127.0.0.1:8000/`.
 
-## Project structure
-
-```
-urlShortener/
-├── manage.py
-├── requirements.txt
-├── .env.example
-├── urlShortener/       # project settings, root urls
-└── urlShortApp/        # models, views, templates
-```
